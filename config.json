@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/flasktut",
+      "prod_uri":"mysql://root:@localhost/flasktut",
+      "fb_url":"https://facebook.com/flasktut",
+      "tw_url":"https://twitter.com/flasktut",
+      "gh_url": "https://github.com/",
+      "blog_name": "Coding Thunder",
+      "tag_line": "Heaven for programmers",
+      "gmail-user":"crce.9711.aids@gmail.com",
+      "gmail-password":"cqsmexexlpxprkdk",
+      "about_txt":"Hi my name is Sharvin and im learning flask right now",
+      "no_of_posts": 2,
+      "login_image": "avatar.svg",
+      "admin_user":"shar",
+      "admin_password": "1234",
+      "upload_location":"C:\\Users\\sharv\\OneDrive\\Desktop\\sharvin1\\Flasktut\\static"
+    }
+}
+  
